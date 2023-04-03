@@ -1,0 +1,11 @@
+.post{
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.show-btn{
+    background-color: black;
+    color: white;
+    margin-left: 5px;
+}
